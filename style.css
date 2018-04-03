@@ -87,6 +87,9 @@ input {
 .add-message {
 	padding: 0.5rem 1rem;
 }
+.message--self{
+	margin-left: 2rem;
+}
 
 .add-message__input {
 	padding: 0.25em 0.5em;
